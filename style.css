@@ -1,0 +1,196 @@
+body{
+	background-color:#b3c3f5;
+	font-family: "Gabriela", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+h1{
+	font-family: "Moon Dance", serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+}
+h2{
+	font-family: "Moon Dance", serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+}
+
+h3{
+	font-family: "Moon Dance", serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align:left center;
+}
+
+p{
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-weight: normal;
+	unicode-bidi: isolate;
+	font-size:large;
+	font-family: "Moon Dance", serif;
+	text-align: center;
+	
+}
+p7{
+	text-align: center;
+	line-height: 1.7;
+	background-color: #ebf2ff;
+	
+}
+p5{
+	margin-left:1px;
+	
+}
+.myphoto{
+	width:75%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.container {
+	width:1500px;
+	background-color:#c5ceeb;
+	margin:0 auto;
+}
+.container1{
+	width:1500px;
+	background-color:#c5ceeb;
+	margin:0 auto;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float:left;
+}
+
+li a{
+	display: block;
+	color: white;
+	text-align:center;
+	padding: 14px 35px;
+	text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.two-column div{
+	margin-right:30px;
+	margin-left:30px;
+	background-color:#ebf2ff;
+}
+
+.two-column{
+	display: grid;
+	grid-template-columns: 50% 50%;
+	padding: 15px;
+	background-color:#ebf2ff;
+	margin-right:30px;
+	margin-left:30px;
+	margin-top: 20px;
+}
+
+.reslife-pod{
+	width:71%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.erasmus{
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.armenia{
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	
+}
+.instagram-png {
+	width: 30px;
+    height: 30px;
+    margin-right:5px;
+    text-align: center
+}
+.instagram-p-ng{
+	Width:30px;
+	height: 30px;
+	margin-right:5px;
+	text-align: center
+}
+.linkedinlogo{
+	width:50px;
+	height: auto;
+	border-radius:50%;
+	padding:15px;
+	margin:0 auto;
+}
+.instalogo{
+	width:50px;
+	height: auto;
+	border-radius:50%;
+	padding:15px;
+	margin-left:0 auto;
+}
+.button1 {
+	border: 1px solid black;
+	padding: 25px 25px;
+	background-color: #41589e;
+	text-decoration: none;
+	margin-left: 650px;
+	box-sizing: border-box;
+	border-radius:50%;
+	font-weight:bold;
+	
+}
+.button2 {
+	border: 1px solid black;
+	padding: 25px 25px;
+	background-color: #41589e;
+	text-decoration: none;
+	margin-left: 650px;
+	box-sizing: border-box;
+	border-radius:50%;
+	font-weight:bold;
+	margin-top:20px;
+}
+.button3 {
+	border: 1px solid black;
+	padding: 25px 25px;
+	background-color: #41589e;
+	text-decoration: none;
+	margin-left: 600px;
+	box-sizing: border-box;
+	border-radius:50%;
+	font-weight:bold;
+	
+}
+.button4 {
+	border: 1px solid black;
+	padding: 25px 25px;
+	background-color: #41589e;
+	text-decoration: none;
+	margin-left: 650px;
+	box-sizing: border-box;
+	border-radius:50%;
+	font-weight:bold;
+}
+
+
+
